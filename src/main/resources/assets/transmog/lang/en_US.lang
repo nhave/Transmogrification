@@ -1,0 +1,14 @@
+//---Creative Tab---//
+itemGroup.transmog=Transmogrification
+
+//---Items---//
+item.transmog.itemShaderCore.name=Shader Core
+item.transmog.itemCamo.name=Armor Camoflage
+
+//---Tooltip---//
+tooltip.item.shader=Item Shader
+tooltip.transmog.ready=Shader Core installed
+tooltip.transmog.true=Transmogged with
+tooltip.transmog.howto=Combine with any armor of the same type
+tooltip.shadercore=This item allows you to Transmog any armor ;including modded armor to look like another ;Be aware that transmogs is not returned when armor breaks!
+tooltip.camo=Apply to any armor including modded armor ;that has a Shader Core installed to make ;the armor look invisible

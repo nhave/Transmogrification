@@ -1,0 +1,16 @@
+[
+{
+  "modid": "transmog",
+  "name": "Transmogrification",
+  "description": "Small mod about Transmogging Armor",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nhave"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
